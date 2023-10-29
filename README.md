@@ -1,2 +1,6 @@
 # My-Skills
-A repo containing a portfolio of my work experience, certification history, artifacts and roadmap as well as learning goals
+This repo will contain:
+
+1. My work experience, professional accomplishments and relevant documents.
+2. My professional certification history, artifacts and roadmap.
+3. My learning objectives, roadmap and timeline.
